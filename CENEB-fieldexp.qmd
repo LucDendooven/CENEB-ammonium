@@ -1,0 +1,16 @@
+---
+title: "Field-Experiment"
+author: "Yendi E. Navarro-Noya and Luc Dendooven"
+format: 
+  html:
+    toc: true
+editor: visual
+bibliography: bibliography.bib
+embed-resources: true
+---
+
+Experimental site at CENEB [@dendooven2025fungal]
+
+Soil was collected from the long-term field experiment (initiated in 1992) at Campo Experimental Norman E. Borlaug (CENEB), near Ciudad Obregón, Sonora, Mexico (38 m.a.s.l.). The climate at the experimental station is BWh (Subtropical Dry Arid (Desert)) according to Köppen Climate Classification System [@article{Kottek2006] with 320 mm annual rainfall and a reference evapotranspiration of 1800 to 2000 mm [@verhulst2011soil]. Between 1986 and 2009, annual rainfall ranged from 90 to 590 mm demonstrating the variability in precipitation at the site. Rainfall occurs mostly in summer and only 20% of the average annual precipitation occurs during the wheat growing season (November-May). The mean annual temperature is 24 °C and mean monthly averages range from 16.3 °C in January to 30.8 °C in July-August. The soil is a Hyposodic Vertisol (Calcaric, Chromic) according to the world reference base [@verhulst2009classification; @krasilnikov2009world] and a fine, smectitic Chromic Haplotorrert in Soil Taxonomy [@verhulst2009classification; @smith2014soil]. The long-term experiment is a randomized complete block design with a split plot treatment and three replicates (three main plots) [@verhulst2011soil]. Main plots measure 6 m (8 beds of 0.75 m) by 117 m (10 m border on each end and 7 subplots of 13 m separated by 1 m). Subplots measure 6 m by 13 m. The main plots are used for replicates while the subplots have different tillage-residue management treatments and are split for the different nitrogen fertilizer rates. For the purpose of this study, two tillage-crop residue management practices were used: (1) CBR treatment: Conventionally tilled raised beds, i.e. beds tilled after each crop with a disk harrow to 20 cm, after that new beds are formed, wheat and maize residues incorporated by the tillage operations and crops not fertilized, or (2) PBR treatment: Permanent raised beds with zero tillage and continued reuse of existing beds, maize and wheat residues kept on the soil surface and crops are not fertilized. The wheat received a uniform application of 46 kg P2O5 ha-1 (as 100 kg triple super phosphate ha-1) in all treatments. K was not applied since the soil is rich in K.
+
+The cropping system is an annual succession of maize and wheat with furrow irrigation (one pre-planting irrigation of approximately 120 mm and four additional irrigations of 80-100 mm). Wheat as winter crop is planted in late November to early December and harvested in May, followed by maize as summer crop planted in June and harvested in October. Traffic is confined to the furrows and narrow tractor tires are used for all operations.
